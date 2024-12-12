@@ -1,0 +1,1 @@
+extern char img_arr[32][32][3];
